@@ -1,2 +1,2 @@
-# flappybird
-its free game
+# dictionary
+its free app
